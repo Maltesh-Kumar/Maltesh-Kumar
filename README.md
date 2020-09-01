@@ -20,7 +20,7 @@ Hello world, this is
 </h3>
 
 <p align="center">
-<img src="https://github.com/Maltesh-Kumar/Maltesh-Kumar/blob/master/assets/undraw_programming_2svr.svg" width="400" />
+<img src="https://github.com/Maltesh-Kumar/Maltesh-Kumar/blob/master/assets/undraw_programming_2svr.svg" width="600" />
 </p>
 
 
@@ -36,7 +36,7 @@ Hello world, this is
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="800" />
 </p>
 
 
