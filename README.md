@@ -25,13 +25,13 @@ Hello world, this is
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/maltesh-kumar-63a45514a/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" /></a>
+<a href="https://www.linkedin.com/in/maltesh-kumar-63a45514a/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" /></a>
 &nbsp;&nbsp;
-<a href="https://public.tableau.com/profile/maltesh.kumar#!/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" width="22" /></a>
+<a href="https://public.tableau.com/profile/maltesh.kumar#!/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" width="30" /></a>
 &nbsp;&nbsp;
- <a href="https://www.kaggle.com/malteshkumar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/kaggle.svg" width="22" /></a>
+ <a href="https://www.kaggle.com/malteshkumar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/kaggle.svg" width="30" /></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/MalteshKumar4"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" /></a>
+<a href="https://twitter.com/MalteshKumar4"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" /></a>
 &nbsp;&nbsp;
 </p>
 
