@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
+<h3 align="center">
+Hi there 👋, I'm
+<a href="https://maltesh.me/">Maltesh Kumar</a>
+</h3>
 
+<p align="center">
+<img src="https://github.com/iamrajiv/iamrajiv/blob/master/assets/undraw_programming_2svr.svg" width="400" />
+</p>
 
 
 <p align="center">
