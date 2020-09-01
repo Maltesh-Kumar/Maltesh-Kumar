@@ -33,7 +33,10 @@ Hello world, this is
 &nbsp;&nbsp;
 <a href="https://twitter.com/MalteshKumar4"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" /></a>
 &nbsp;&nbsp;
+</p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="400" />
 </p>
 
 
