@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">
+<h1 align="center">
 Hello world, this is 
 <a href="https://maltesh.me/">Maltesh Kumar</a>
-</h3>
+</h1>
 
 <p align="center">
 <img src="https://github.com/Maltesh-Kumar/Maltesh-Kumar/blob/master/assets/undraw_programming_2svr.svg" width="600" />
