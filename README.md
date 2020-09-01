@@ -20,7 +20,7 @@ Hi there 👋, I'm
 </h3>
 
 <p align="center">
-<img src="https://github.com/iamrajiv/iamrajiv/blob/master/assets/undraw_programming_2svr.svg" width="400" />
+<img src="https://github.com/Maltesh-Kumar/Maltesh-Kumar/blob/master/assets/undraw_programming_2svr.svg" width="400" />
 </p>
 
 
