@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-Hi there 👋, I'm
+Hello world, this is 
 <a href="https://maltesh.me/">Maltesh Kumar</a>
 </h3>
 
