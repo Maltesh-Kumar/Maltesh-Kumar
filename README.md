@@ -1,9 +1,6 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,600&display=swap');
-</style>
 
 
-<h1 align="center" font-family: 'Nunito', sans-serif;>
+<h1 align="center" >
 Hello world, <br/>
 This is 
 <a href="https://maltesh.me/" target="_blank">Maltesh Kumar</a>
