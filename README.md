@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
 Hello world, this is 
-<a href="https://maltesh.me/">Maltesh Kumar</a>
+<a href="https://maltesh.me/" target="_blank">Maltesh Kumar</a>
 </h1>
 
 <p align="center">
