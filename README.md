@@ -5,7 +5,7 @@ Hello world, this is
 </h1>
 
 <p align="center">
-<img src="https://github.com/Maltesh-Kumar/Maltesh-Kumar/blob/master/assets/undraw_programming_2svr.svg" width="600" />
+<img src="https://github.com/Maltesh-Kumar/Maltesh-Kumar/blob/master/assets/undraw_programming_2svr.svg" width="600" style="border-radius: 25px" />
 </p>
 
 
