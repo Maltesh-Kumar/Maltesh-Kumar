@@ -21,14 +21,18 @@ This is
 <a href="https://twitter.com/MalteshKumar4"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" /></a>
 &nbsp;&nbsp;
 </p>
+<br/>
+<h3 align="center" >
+Always fascinated about AI technology & applications 
+</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="800" />
 </p>
 
 
-<h1 align="center" >
-Checkout my repositories and feel free to clone :)
-</h1>
+<h2 align="center" >
+Checkout my repositories and feel free to clone 
+</h2>
 
 
