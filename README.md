@@ -20,6 +20,8 @@ This is
 &nbsp;&nbsp;
 <a href="https://twitter.com/MalteshKumar4"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" /></a>
 &nbsp;&nbsp;
+ <a href="https://medium.com/@maltesh1223"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" width="30" /></a>
+&nbsp;&nbsp;
 </p>
 <br/>
 <h3 align="center" >
